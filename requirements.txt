@@ -1,0 +1,5 @@
+#Extra requirements include:
+!pip install datascience
+
+Also required csv file, located in my_module, that holds all the words used in HangMan:
+words.csv
