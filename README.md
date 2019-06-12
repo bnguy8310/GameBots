@@ -10,7 +10,7 @@ went on this route to create a Hang Man game because I believed that it would ch
 is a game which I enjoyed playing when I was young. The HangMan bot that I have written is simple and basic, which could definitely 
 be improved in the future with more experience.
 
-A description of the code each step of the way using GameBots to create the HangMan bot: 
+A description of the code each step of the way using GameBots to create the HangMan bot: <br>
 At first I decided to make to make the class GameBots() to be the foundation and the set up for potential games. It has two attributes 
 that holds the number of wins and losses. It also has a method where it prints the number of wins and losses when called.
 
