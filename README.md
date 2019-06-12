@@ -2,7 +2,7 @@
 GameBots code that can be the foundation to games in the form of a chat bot
 Below is the same description that is found in the Jupyter Notebook
 
-GameBots Description
+### GameBots Description <br>
 This project primarily focuses on a Bot that simulates a Hang Man game using styles of a chatbot in the form of a class. 
 There is also an initial GameBot class that can be the base of several other games. I was inspired by the idea to make a chatbot 
 related project from my class at UCSD COGS18 Introduction to Python class in Assignment 3. As a result, I started from scratch and 
