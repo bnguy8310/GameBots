@@ -1,6 +1,6 @@
 # GameBots
-GameBots code that can be the foundation to games in the form of a chat bot
-Below is the same description that is found in the Jupyter Notebook
+GameBots code that can be the foundation to games in the form of a chat bot <br>
+#### Below is the same description that is found in the Jupyter Notebook
 
 ### GameBots Description <br>
 This project primarily focuses on a Bot that simulates a Hang Man game using styles of a chatbot in the form of a class. 
